@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FaceDetectionAPI.Controllers.FaceDetectionController",
+    "Method": "DetectFaces",
+    "RelativePath": "api/face/detect",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

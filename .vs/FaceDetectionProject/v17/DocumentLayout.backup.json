@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI\\OllamaFaceDetect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\controllers\\facedetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\controllers\\facedetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\services\\ollamafaceverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\services\\ollamafaceverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\services\\facedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\services\\facedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\models\\ollamaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\models\\ollamaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|d:\\ai\\ollamafacedetect\\facedetectionapi\\models\\faceverificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E8F469-A61F-4F30-8B3F-334A988DFD13}|FaceDetectionAPI\\FaceDetectionAPI.csproj|solutionrelative:facedetectionapi\\models\\faceverificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\appsettings.json",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\appsettings.json",
+              "RelativeToolTip": "FaceDetectionAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T17:10:20.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FaceDetectionService.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Services\\FaceDetectionService.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Services\\FaceDetectionService.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Services\\FaceDetectionService.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Services\\FaceDetectionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:07:46.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OllamaFaceVerificationService.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Services\\OllamaFaceVerificationService.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Services\\OllamaFaceVerificationService.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Services\\OllamaFaceVerificationService.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Services\\OllamaFaceVerificationService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:35:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:20:53.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaceDetectionController.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Controllers\\FaceDetectionController.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Controllers\\FaceDetectionController.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Controllers\\FaceDetectionController.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Controllers\\FaceDetectionController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:36:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Program.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Program.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:37:48.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OllamaConfig.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Models\\OllamaConfig.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Models\\OllamaConfig.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Models\\OllamaConfig.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Models\\OllamaConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:34:15.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FaceVerificationResult.cs",
+              "DocumentMoniker": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Models\\FaceVerificationResult.cs",
+              "RelativeDocumentMoniker": "FaceDetectionAPI\\Models\\FaceVerificationResult.cs",
+              "ToolTip": "D:\\AI\\OllamaFaceDetect\\FaceDetectionAPI\\Models\\FaceVerificationResult.cs",
+              "RelativeToolTip": "FaceDetectionAPI\\Models\\FaceVerificationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:34:23.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

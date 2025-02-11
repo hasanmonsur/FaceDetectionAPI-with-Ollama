@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M+VAESc4ap2G1vaNcxBNZE+3CHlTQPJvzT6fd9TCsSA=",
+  "Source": "FaceDetectionAPI",
+  "BasePath": "_content/FaceDetectionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
